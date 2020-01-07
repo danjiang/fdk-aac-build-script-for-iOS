@@ -2,6 +2,10 @@
 
 Shell script to build fdk-aac for use in iOS apps.
 
+## Download
+
+* [fdk-aac](https://sourceforge.net/projects/opencore-amr/files/fdk-aac/)
+
 ## Preparation
 
 ```
